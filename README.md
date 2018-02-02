@@ -1,8 +1,8 @@
-# ASTR 302, Winter 2018, University of Washington: 
+#ASTR 302, Winter 2018, University of Washington: 
 # Python for Astronomy
 
 Do this to merge to the upstream branch:
-git merge upstream2/master
+git merge upstream2/master 
 
 [Mario Jurić](http://research.majuric.org)
 
