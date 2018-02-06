@@ -2,8 +2,8 @@
 # Python for Astronomy
 
 Do this to merge to the upstream branch:
+git fetch upstream
 git merge upstream2/master 
-
 
 [Mario Jurić](http://research.majuric.org)
 
