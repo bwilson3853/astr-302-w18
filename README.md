@@ -1,9 +1,9 @@
-#ASTR 302, Winter 2018, University of Washington: 
+# ASTR 302, Winter 2018, University of Washington:
 # Python for Astronomy
 
 Do this to merge to the upstream branch:
 git fetch upstream
-git merge upstream2/master 
+git merge upstream2/master
 
 [Mario Jurić](http://research.majuric.org)
 
@@ -17,7 +17,7 @@ git merge upstream2/master
  * [Syllabus and course description](syllabus/astr-302-w18-syllabus.pdf)
  * [Lectures](lectures/README.md)
  * [Homeworks](homeworks/)
- 
+
 ## Useful Textbooks
 
 We will largely rely on material freely available on the web; however, these two books may be useful for a more in-depth dive:
